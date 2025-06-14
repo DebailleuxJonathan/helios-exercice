@@ -4,8 +4,6 @@ import com.helios.exercice.helios_exercice.first_exercice.models.FizzBuzzRequest
 import com.helios.exercice.helios_exercice.first_exercice.models.FizzBuzzStatsDTO
 import org.springframework.stereotype.Service
 import java.util.concurrent.ConcurrentHashMap
-import kotlin.collections.component1
-import kotlin.collections.component2
 
 @Service
 class FizzBuzzService {
